@@ -7,3 +7,6 @@ __pycache__/
 .env
 venv/
 venv_data-generator/
+
+# Secret files
+hello-world-d0794-bb8a32250c8d.json
